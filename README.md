@@ -11,8 +11,8 @@ A website that discusses different marketing services.
 ## Website
 https://mleone13.github.io/challenge-one/
 
+![mleone13 github io_challenge-one_ (1)](https://user-images.githubusercontent.com/74919680/162647365-834f8205-9d6c-42f5-ba59-66dbe6f75fe9.png)
 
-![mleone13 github io_challenge-one_](https://user-images.githubusercontent.com/74919680/162647243-68490ec3-6ea1-483a-a529-ba9c223904df.png)
 
 
 
